@@ -2,6 +2,8 @@
 
 Implemented a model which uses embedded information from an external code repository as truth source.
 
+[Source](https://python.langchain.com/v0.1/docs/use_cases/code_understanding/)
+
 ## File Structure
 - **proof_of_concept.ipynb** - full workflow implemented, useful to understand.
 - **generate_data.py** - generates and saves vector embeddings of an external codebase - run only if codebase updates or you want to change codebase.
